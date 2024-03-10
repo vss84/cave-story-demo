@@ -35,19 +35,19 @@ This project relies on the following libraries:
 | Movement                  | `← ↑ ↓ →` |
 | Jump                      | `Z`       |
 
-- `Q / Esc` - Quit Game
+- `Esc` - Quit Game
 
 
 #### Screenshots
 
 <details>
 <summary>Freeware</summary>
+  
+![capture1](https://github.com/vss84/cave-story-demo/assets/25358799/2d9179f3-20ca-4f2b-9fde-29af77f80bed)
 
-![Freeware 1](https://.png)
+![Capture2](https://github.com/vss84/cave-story-demo/assets/25358799/d0fd8186-1457-4f4a-a744-18df6f7fd315)
 
-![Freeware 2](https://.png)
-
-![Freeware 3](https://.png)
+![Capture3](https://github.com/vss84/cave-story-demo/assets/25358799/fa88e674-a7f7-4223-a14c-ff065e80b7a1)
 
 </details>
 
